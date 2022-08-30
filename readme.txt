@@ -1,3 +1,1 @@
 RPL BO
-praktikum
-BO
